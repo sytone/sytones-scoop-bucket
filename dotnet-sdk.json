@@ -1,0 +1,5 @@
+{ 
+  "version": "1.0.0", 
+  "homepage": "https://github.com/sytone/dotnet-sdk-cli",
+  "url": ["https://raw.githubusercontent.com/sytone/dotnet-sdk-cli/master/dotnet-sdk.cmd","https://raw.githubusercontent.com/sytone/dotnet-sdk-cli/master/dotnet-sdk.ps1"]
+}
