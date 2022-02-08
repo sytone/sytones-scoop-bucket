@@ -9,7 +9,7 @@
     "autoupdate": {
         "url": "https://aka.ms/vs/17/release/vs_enterprise.exe"
     },
-    "hash": "daab30072e17de3bf196faba563c417aa0a38cd74ada008f5c16c7b2b88a60fa",
+    "hash": "3c47dcce1964284cf47958c84c08086a52be2716ad13159d21d0ad8c984dc744",
     "installer": {
         "file": "vs_enterprise.exe",
         "args": [
