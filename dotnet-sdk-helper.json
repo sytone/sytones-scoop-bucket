@@ -1,7 +1,7 @@
 { 
-  "version": "1.0.5", 
+  "version": "1.0.6", 
   "homepage": "https://github.com/sytone/dotnet-sdk-cli",
   "env_add_path": ".",
-  "hash": ["ff33b9e3b65228e4085a395890eda19bd746a9d7598e9df647481d7d78e4a358","be90ccda5b60dc035ad225b53a8b2462b4f2ac43a90e36e766ecd964063aa17b"],
+  "hash": ["ff33b9e3b65228e4085a395890eda19bd746a9d7598e9df647481d7d78e4a358","f18d266d780d52b82fb0c82a09c4ce2b7e7d7e2a58cb3f0a1a052ff6388b709d"],
   "url": ["https://raw.githubusercontent.com/sytone/dotnet-sdk-cli/master/dotnet-sdks.cmd","https://raw.githubusercontent.com/sytone/dotnet-sdk-cli/master/dotnet-sdks.ps1"]
 }
