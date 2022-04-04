@@ -1,5 +1,5 @@
 { 
-  "version": "1.0.3", 
+  "version": "1.0.4", 
   "homepage": "https://github.com/sytone/dotnet-sdk-cli",
   "env_add_path": ".",
   "hash": ["ff33b9e3b65228e4085a395890eda19bd746a9d7598e9df647481d7d78e4a358","cb7cd2746fa10fd89c6b525681d39410cdd3009dfd6edb41b51b24a847454990"],
