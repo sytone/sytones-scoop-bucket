@@ -1,5 +1,5 @@
 {
-    "version": "0.2.10",
+    "version": "0.3.0",
     "description": "Run LLMs on your laptop, entirely offline",
     "homepage": "https://lmstudio.ai",
     "license": {
@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://releases.lmstudio.ai/windows/x86/0.3.0/1/LM-Studio-0.3.0-Setup.exe",
-            "hash": "a4a0ae8fe3bebdd353f2cd092b3963f51b827c93d0492498628cdb3ecb247514"
+            "hash": "255a828ca7b5fd9b1c5e408614f90c61af0f284279cb8cc51ea9608bfc0e9f38"
         }
     },
     "installer": {
