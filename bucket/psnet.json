@@ -1,0 +1,25 @@
+{
+    "version": "1.0.0",
+    "description": "Real-time TUI network monitor for Windows — GlassWire + Wireshark + htop for your terminal",
+    "homepage": "https://github.com/psmux/psnet",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/psmux/psnet/releases/download/v1.0.0/psnet-1.0.0-x86_64-windows.zip",
+            "hash": "a12c0aa83de296812f34f4a41562ccd3d8bd1234a634600b2a32e457cfd2d97e"
+        }
+    },
+    "bin": "psnet.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/psmux/psnet/releases/download/v$version/psnet-$version-x86_64-windows.zip"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/checksums.txt",
+            "regex": "psnet-$version-x86_64-windows\\.zip.*?\\|\\s*`([a-fA-F0-9]{64})`"
+        }
+    }
+}

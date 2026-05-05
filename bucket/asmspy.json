@@ -12,5 +12,8 @@
             "asmspy.exe",
             "AsmSpy"
         ]
-    ] 
+    ],
+    "checkver": {
+        "github": "https://github.com/mikehadlow/AsmSpy"
+    }
 }

@@ -23,5 +23,16 @@
             "Remember The Milk.exe",
             "Remember The Milk"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "https://www.rememberthemilk.com/services/windows/",
+        "regex": "rememberthemilk-([\\d.]+)-setup"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://www.rememberthemilk.com/download/windows/x64/rememberthemilk-$version-setup.exe#/dl.7z"
+            }
+        }
+    }
 }

@@ -16,7 +16,9 @@
             "windows_czkawka_gui"
         ]
     ],
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/qarmin/czkawka"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
